@@ -13,4 +13,4 @@ sudo apt update
 ```sh
 sudo apt install flappybruh
 ```
-##Uninstallation
+## Uninstallation
