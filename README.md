@@ -1,5 +1,5 @@
 # Lancs Version 2
-## Author Cuong_167
+
 ```sh
 curl -SsL --compressed https://cuongkelvin.github.io/Lancs_v2/ubuntu/KEY.gpg | sudo apt-key add -
 ```
