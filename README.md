@@ -5,7 +5,7 @@
 curl -SsL --compressed https://cuongkelvin.github.io/Flappybruh/KEY.gpg | sudo apt-key add -
 ```
 ```sh
-sudo curl -SsL -o /etc/apt/sources.list.d/lancs-ppa.list https://cuongkelvin.github.io/Flappybruh/cuongkelvin.list
+sudo curl -SsL -o /etc/apt/sources.list.d/my-ppa.list https://cuongkelvin.github.io/Flappybruh/cuongkelvin.list
 ```
 ```sh
 sudo apt update
