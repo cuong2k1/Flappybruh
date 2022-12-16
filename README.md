@@ -10,3 +10,7 @@ sudo curl -SsL -o /etc/apt/sources.list.d/lancs-ppa.list https://cuongkelvin.git
 ```sh
 sudo apt update
 ```
+```sh
+sudo apt install flappybruh
+```
+##Uninstallation
