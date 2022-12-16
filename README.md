@@ -1,5 +1,7 @@
 # Lancs Version 2
 
+
+## Installation
 ```sh
 curl -SsL --compressed https://cuongkelvin.github.io/Lancs_v2/ubuntu/KEY.gpg | sudo apt-key add -
 ```
