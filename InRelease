@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Fri, 16 Dec 2022 15:48:21 +0000
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages
+ bc27c198e9b58e34b0ddab9981df68df               29 Packages.gz
+ 47eb1c6e9b334ebba90c2bcf14182939               38 Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
+ 6dc8d6c128c6b2739e6cad1c930b93106b421fe9               29 Packages.gz
+ 9a91884332fa1c5bc137028411ad1d699d1c1f54               38 Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
+ ee8648b235a439bfa2040c7d19ac5ad5138e4eadc3614063846c629d7eadb028               29 Packages.gz
+ f4c447553d5c5cfda228e9f9d4e5348e39aab86562d304473c1dae272ec217ea               38 Release
+SHA512:
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages
+ 9f576f38c0fb994be4ddaf7538adef83ba4b262e6a48a81debc369a75732cf2c4d361d49cf5b38804a3b3ff7c9fafb20fc416b3ce9990eb4cfa156733af1be82               29 Packages.gz
+ 63d4cf8165c783ea22583cca656e2b3b478df4f5f35656f2024d376a5ba0fc9f26211f305ab7369d1d8c0bc07fdcb7418c629a5357029547049af3c17f6ecb8a               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJJBAEBCgAzFiEEZ8ZnFvaq2Usq7XqAh5Rr5PKxc9EFAmOck4cVHGN1b25nbGlu
+dXNAZ21haWwuY29tAAoJEIeUa+TysXPRN8UQALxncgXs6QOwWYltlfNP1dY2WvG8
+fU47gh1wciKWUA/gvp0gWqlonSRDj8q1XO82oclg3vWYDQSbLJdS0HGzkjy6hfIB
+1viYZNo7vXDjA3TFQ5rf9e6uRh4qGO5xJIFV24K+Cg6zwMhDrFY1kaTYS5xkcw7y
+ibCtRv/KF0jrs3isjUs0e2dyHy4v0YCo61pJhLxooo7XqJs7jFxkJzI8oPywOR6l
+/ecoJ5/Hkmo/FaKCHdi7GRyxdrlGQba7azBC4TOUKsKp6+733eis3XkThAK0nMJL
+i67HHvBHCtT8/dSismnPXPhE5SnVHGXNy8GmYstXf2/Dk0Rp8uGtaDBsin1xbHOn
+4uclX8nKEZIhii3pNRDMh25T3+TRJ1Q7TJJRjK6Zu2vElpj6UkrguvwCetmvaf64
+/UdEDPdp72S8rFfwP1WDGmnD3y/4RwO6/hoeHSxXmHnjdXm5x7/VEIEGSbrNbCRw
+oJ4xvOBOt5nsqD8XiaMynArwvfwx5bFK54wbaZncV/eUIMok/NeUBOLp46Ccophf
+TQbD+H9bzSQjZTfTGlLm5xjbAUgc6dLQUSqkfgWVPQjHUWnZOfB0RZ/bZRTODXnD
+a0hlX1mT3XGwCMs3fQNWuXBbCBqeMzZJxV5W+3CwzAEmI1j4hGY0RU9R86e7GMN7
+CS1ao6QZA9LsR6J6
+=VTIp
+-----END PGP SIGNATURE-----
